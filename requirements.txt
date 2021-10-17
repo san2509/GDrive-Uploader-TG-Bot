@@ -1,6 +1,6 @@
 wget
 asyncio
-https://github.com/pyrogram/pyrogram/archive/asyncio.zip
+https://github.com/san2509/GDrive-Uploader-TG-Bot/blob/master/requirements.txt
 tgcrypto
 oauth2client
 psycopg2-binary
